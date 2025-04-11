@@ -32,6 +32,14 @@ Open your browser and navigate to:
 
 ![Payment Simulation](https://github.com/AmiTSarathi/handupi-simulation/raw/main/IMG1.JPG)
 
+![Payment Simulation](https://github.com/AmiTSarathi/handupi-simulation/raw/main/IMG2.JPG)
+
+![Payment Simulation](https://github.com/AmiTSarathi/handupi-simulation/raw/main/IMG03.JPG)
+
+![Payment Simulation](https://github.com/AmiTSarathi/handupi-simulation/raw/main/IMG3.JPG)
+
+![Payment Simulation - Insufficient balance](https://github.com/AmiTSarathi/handupi-simulation/raw/main/IMG4.JPG)
+
 ---
 
 ## 🌐 Live Demo (Replit)
