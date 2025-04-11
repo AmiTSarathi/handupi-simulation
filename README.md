@@ -18,15 +18,9 @@ cd handupi-simulation
 pip install -r requirements.txt
 uvicorn main:app --reload
 
-![Payment Simulation Screenshot](IMG1.png)
 
-![Payment Simulation Screenshot](IMG2.png)
+![Payment Simulation](https://github.com/AmiTSarathi/handupi-simulation/raw/main/IMG1.JPG)
 
-![Payment Simulation Screenshot](IMG03.png)
-
-![Payment Simulation Screenshot](IMG3.png)
-
-![Payment Simulation Screenshot](IMG4.png)
 
 
 
