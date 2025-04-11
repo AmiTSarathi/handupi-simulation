@@ -45,7 +45,7 @@ Open your browser and navigate to:
 ## 🌐 Live Demo (Replit)
 
 Try the live version on Replit:  
-🔗 [https://replit.com/@AmiTSarathi/handupi-simulation](https://replit.com/@AmiTSarathi/handupi-simulation)
+🔗 [https://replit.com/@akggkg/handupi-simulation](https://replit.com/@akggkg/handupi-simulation)
 
 ---
 
