@@ -17,3 +17,12 @@ git clone https://github.com/AmiTSarathi/handupi-simulation.git
 cd handupi-simulation
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+![image](https://github.com/user-attachments/assets/5482802c-b952-4b93-9ef3-f6bc2d400293)
+
+![image](https://github.com/user-attachments/assets/0daf5541-c4fa-494f-99e2-b989c4c1d785)
+
+![image](https://github.com/user-attachments/assets/caa2b1d8-3f89-412a-ba41-dac2686724e5)
+
+
+
